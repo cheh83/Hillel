@@ -1,5 +1,5 @@
 try:
-    num = int(input('введите число: '))
+    num = int(input("введите число: "))
     num += 5
     print(num)
 except ValueError:
